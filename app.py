@@ -13,8 +13,8 @@ st.caption("A Python-based resume analysis, skill matching and data analytics ap
 
 @st.cache_data
 def load_data():
-    resumes = pd.read_csv("dataset/resume_dataset.csv")
-    jobs = pd.read_csv("dataset/job_dataset.csv")
+    resumes = pd.read_csv("resume_dataset.csv")
+    jobs = pd.read_csv("job_dataset.csv")
     return resumes, jobs
 
 resume_df, job_df = load_data()
