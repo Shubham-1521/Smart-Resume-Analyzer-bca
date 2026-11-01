@@ -1,0 +1,21 @@
+Resume_ID,Name,Skills,Education,Experience
+R001,Rahul Sharma,"Python, SQL, Excel, Pandas",BCA,Fresher
+R002,Aman Verma,"Java, HTML, CSS, JavaScript",B.Tech,1 Year
+R003,Priya Singh,"Python, Machine Learning, Pandas, NumPy",BCA,6 Months
+R004,Ankit Gupta,"C++, SQL, DBMS, Excel",BCA,Fresher
+R005,Neha Patel,"Python, SQL, Power BI, Excel",B.Sc,1 Year
+R006,Karan Mehta,"HTML, CSS, React, JavaScript",BCA,6 Months
+R007,Simran Kaur,"Python, NLP, Machine Learning, TensorFlow",B.Tech,2 Years
+R008,Rohit Yadav,"SQL, Excel, Tableau, Power BI",B.Com,1 Year
+R009,Isha Jain,"Python, Django, Flask, SQL",BCA,1 Year
+R010,Vikas Kumar,"Java, Spring, SQL, Git",B.Tech,2 Years
+R011,Meera Joshi,"Python, Pandas, Matplotlib, Statistics",B.Sc,Fresher
+R012,Arjun Das,"C, C++, Data Structures, Algorithms",BCA,Fresher
+R013,Pooja Nair,"Excel, SQL, Power BI, Statistics",MBA,2 Years
+R014,Dev Malhotra,"Python, FastAPI, REST API, Git",B.Tech,1 Year
+R015,Ananya Roy,"HTML, CSS, JavaScript, UI/UX",BCA,Fresher
+R016,Sahil Khan,"Python, OpenCV, Computer Vision, NumPy",B.Tech,1 Year
+R017,Riya Das,"SQL, Python, Tableau, Pandas",BCA,6 Months
+R018,Mohit Saini,"Java, Python, SQL, Git",BCA,1 Year
+R019,Tanya Bose,"Machine Learning, Python, Scikit-learn, NLP",MCA,2 Years
+R020,Nikhil Rao,"Excel, Power BI, SQL, Communication",BBA,Fresher

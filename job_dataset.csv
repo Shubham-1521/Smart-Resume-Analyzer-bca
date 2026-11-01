@@ -1,0 +1,11 @@
+Job_ID,Job_Role,Required_Skills,Department
+J001,Python Developer,"Python, SQL, Django, Git",Software
+J002,Data Analyst,"Python, Excel, Pandas, SQL, Power BI",Analytics
+J003,Web Developer,"HTML, CSS, JavaScript, React",Software
+J004,Machine Learning Intern,"Python, Machine Learning, Pandas, Scikit-learn",AI/ML
+J005,AI Developer,"Python, NLP, TensorFlow, Machine Learning",AI/ML
+J006,Backend Developer,"Python, FastAPI, REST API, SQL, Git",Software
+J007,Business Analyst,"Excel, SQL, Power BI, Statistics",Analytics
+J008,Computer Vision Intern,"Python, OpenCV, NumPy, Computer Vision",AI/ML
+J009,Java Developer,"Java, Spring, SQL, Git",Software
+J010,Frontend Developer,"HTML, CSS, JavaScript, UI/UX, React",Software
